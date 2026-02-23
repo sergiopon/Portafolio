@@ -7,13 +7,13 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center">
         <div className="flex space-x-6 mb-4">
           <a
-            href="https://www.linkedin.com/in/sergioponcea"
+            href="https://github.com/sergiopon"
             className="text-neutral-500 hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-white transition-colors"
           >
             <Github className="h-6 w-6" />
           </a>
           <a
-            href="www.linkedin.com/in/sergioponcea"
+            href="https://www.linkedin.com/in/sergioponcea"
             className="text-neutral-500 hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-white transition-colors"
           >
             <Linkedin className="h-6 w-6" />
