@@ -3,11 +3,11 @@ import { ArrowUpRight } from "lucide-react";
 
 const projects = [
   {
-    title: "Dashboard Analítico",
-    description: "Plataforma de visualización de datos en tiempo real para empresas SaaS.",
-    image: "https://images.unsplash.com/photo-1602343457765-812c355ea50d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBkYXNoYm9hcmQlMjBkYXJrJTIwdWl8ZW58MXx8fHwxNzcxNzE4Nzg2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    title: "Sergio Loves PDF",
+    description: "Plataforma que permite unir, separar y comprimir pdf's.",
+    image: "public/images/pdfMerger.png",
     tags: ["React", "D3.js", "Node.js"],
-    link: "#"
+    link: "https://sergio-loves-pdf-4khg.vercel.app/"
   },
   {
     title: "E-commerce Minimalista",
