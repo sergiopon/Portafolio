@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Sergio Loves PDF",
     description: "Plataforma que permite unir, separar y comprimir pdf's.",
-    image: "public/images/pdfMerger.png",
+    image: "/images/pdfMerger.png",
     tags: ["React", "D3.js", "Node.js"],
     link: "https://sergio-loves-pdf-4khg.vercel.app/"
   },

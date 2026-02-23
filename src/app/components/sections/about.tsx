@@ -22,7 +22,7 @@ export function About() {
           <div className="relative">
             <div className="aspect-square rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="../../public/images/imgSergio.jpg"
+                src="/images/imgSergio.jpg"
                 alt="Imagen de sergio Ponce sosteniendo un celular"
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
               />
