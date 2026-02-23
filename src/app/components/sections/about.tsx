@@ -22,8 +22,8 @@ export function About() {
           <div className="relative">
             <div className="aspect-square rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1615285307672-09b361d7c61a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaW5pbWFsaXN0JTIwZGV2ZWxvcGVyJTIwZGVzayUyMHNldHVwfGVufDF8fHx8MTc3MTcxODczOHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                alt="Workspace"
+                src="../../public/images/imgSergio.jpg"
+                alt="Imagen de sergio Ponce sosteniendo un celular"
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
               />
             </div>
